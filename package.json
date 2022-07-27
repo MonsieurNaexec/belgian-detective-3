@@ -10,7 +10,6 @@
     "test": "vitest"
   },
   "dependencies": {
-    "@xstate/inspect": "^0.7.0",
     "@xstate/react": "^3.0.0",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
@@ -20,6 +19,7 @@
     "zod": "^3.17.10"
   },
   "devDependencies": {
+    "@xstate/inspect": "^0.7.0",
     "@types/react": "^18.0.15",
     "@types/react-dom": "^18.0.6",
     "@vitejs/plugin-react": "^2.0.0",
